@@ -9,7 +9,7 @@ import pandas as pd
 import numpy as np
 import os
 
-os.chdir(r'C:\Users\Lenovo\Documents\Work\data')
+
 filename = 'DonationsGiftAid.csv'
 df = pd.read_csv(filename)
 
